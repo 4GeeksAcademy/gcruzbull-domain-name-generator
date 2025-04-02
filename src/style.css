@@ -3,3 +3,12 @@
 body{
     background: white;
 }
+
+.lista-mail {
+    list-style-type: none;
+}
+
+.mensage-pi {
+    background-color: whitesmoke;
+    z-index: 20;
+}
